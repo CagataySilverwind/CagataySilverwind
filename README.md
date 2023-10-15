@@ -1,4 +1,11 @@
 [![MasterHead](https://as2.ftcdn.net/v2/jpg/03/72/32/63/1000_F_372326307_Dw36YcZXeBDaSzP4GSDOtvkWC6pNJ4XN.jpg)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muffafa.muffafa">
+<div align="center">
+ <a href="https://github.com/muffafa">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=HELLO+THERE!+%F0%9F%91%BE+WELCOME+%F0%9F%99%8B%F0%9F%8F%BB;MY+NAME+IS+Cagatay+%F0%9F%98%BC;Akkas+%F0%9F%A4%93" alt="Typing SVG" />
+ </a>
+</div>
+
 <h1 align="center">Hi 👋 Çağatay Akkaş'ın Yan Çarıdır</h1>
 <h3 align="center">A passionate Web3 developer from Türkiye</h3>
 
