@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **cagatayakkas9191@gmail.com**
 
+- [![trophy](https://github-profile-trophy.vercel.app/?username=CagataySilverwind&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/çağatay akkaş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="çağatay akkaş" height="30" width="40" /></a>
