@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Çağatay Akkaş</h1>
+[![MasterHead](https://as2.ftcdn.net/v2/jpg/03/72/32/63/1000_F_372326307_Dw36YcZXeBDaSzP4GSDOtvkWC6pNJ4XN.jpg)
+<h1 align="center">Hi 👋 Çağatay Akkaş'ın Yan Çarıdır</h1>
 <h3 align="center">A passionate Web3 developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **React**
