@@ -101,6 +101,9 @@
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40' height='40'></a> 
 
+<details> 
+  <summary><h2>📺 Latest YouTube Videos</h2></summary>
+
 <!-- BEGIN YOUTUBE-CARDS -->
 [![DevCom.web.tr](https://ytcards.demolab.com/?id=FdOr3yz6vKE&title=DevCom.web.tr&lang=en&timestamp=1690383611&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DevCom.web.tr")](https://www.youtube.com/watch?v=FdOr3yz6vKE)
 [![ChatGPT V4 Deneyimim](https://ytcards.demolab.com/?id=Hr0EJA1k8jE&title=ChatGPT+V4+Deneyimim&lang=en&timestamp=1689778816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ChatGPT V4 Deneyimim")](https://www.youtube.com/watch?v=Hr0EJA1k8jE)
