@@ -6,6 +6,8 @@
  </a>
 </div>
 
+<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
+
 <h1 align="center">Hi 👋 Çağatay Akkaş'ın Yan Çarıdır</h1>
 <h3 align="center">A passionate Web3 developer from Türkiye</h3>
 
