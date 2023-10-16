@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner2.jpg)
+[![MasterHead](https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg)
 ![](https://komarev.com/ghpvc/?username=CagataySilverwind&color=green)
 <div align="center">
  <a href="https://github.com/muffafa">
