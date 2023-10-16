@@ -81,9 +81,9 @@
  
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Middle%20Left2.png">
+    <img heigth="150" width="169" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Middle%20Left2.png">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=CagatayAkkas&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="CagatayAkkas" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Middle%20Right.png">
+    <img heigth="150" width="169" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Middle%20Right.png">
   </a>
 </p>
 
