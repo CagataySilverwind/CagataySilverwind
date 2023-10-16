@@ -1,4 +1,4 @@
-[![MasterHead](https://as2.ftcdn.net/v2/jpg/03/72/32/63/1000_F_372326307_Dw36YcZXeBDaSzP4GSDOtvkWC6pNJ4XN.jpg)
+[![MasterHead](https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner2.jpg)
 ![](https://komarev.com/ghpvc/?username=CagataySilverwind&color=green)
 <div align="center">
  <a href="https://github.com/muffafa">
@@ -28,6 +28,84 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+<!--
+<details>
+  <summary>:zap: GitHub Stats</summary> 
+-->
+
+
+# Github Stats
+
+ <br />
+ 
+  <p align="center">
+  <a>
+    <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/left.png">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=b-tekinli&show_icons=true&title_color=ff0000&icon_color=ffb300&text_color=2e3440&bg_color=ffffff&icon=5C4F31&ring=292E36&count_private=true" />
+    <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/right.png">
+  </a>
+</p>
+
+  
+<br />
+
+
+ 
+ <p align="center">
+  <a>
+    <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=b-tekinli&theme=dark&background=ffffff&stroke=ffb300&ring=ff0000&fire=ff0000&currStreakNum=000000&sideNums=000000&currStreakLabel=dd2727&sideLabels=00e676&dates=9c36b5" />
+    <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/right.png">
+  </a>
+</p>
+ 
+
+ 
+ <br />
+ 
+  
+  
+  <p align="center">
+  <a>
+    <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/left.png">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&layout=compact&langs_count=26&title_color=ff0000&text_color=8c001a&bg_color=ffffff" />
+    <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/right.png">
+  </a>
+</p>
+ 
+  
+  
+ <!--
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-tekinli&layout=compact&langs_count=25&title_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/b-tekinli/github-readme-stats)
+-->
+
+
+<br />
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=b-tekinli&theme=tokyo)
+
+
+<br />
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=b-tekinli)
+
+
+<br />
+
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40' height='40'></a> 
+
+
+<!--
+</details>
+-->
+
+<!--
+<details>
+   <summary>:zap: Languages and Tools</summary>
+ -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cagatayakkas&show_icons=true&locale=en&layout=compact" alt="cagatayakkas" /></p>
 
