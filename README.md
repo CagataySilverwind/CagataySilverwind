@@ -82,7 +82,7 @@
   <p align="center">
   <a>
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/left.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=CagatayAkkas&show_icons=true&title_color=0000ee&icon_color=0000ee&text_color=2e3440&bg_color=ffffff&icon=5C4F31&ring=292E36&count_private=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=CagatayAkkas&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="CagatayAkkas" />
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/right.png">
   </a>
 </p>
