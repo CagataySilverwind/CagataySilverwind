@@ -34,7 +34,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary> 
 -->
-
+![snake gif](https://github.com/CagatayAkkas/CagatayAkkas/blob/output/github-contribution-grid-snake.gif)
 
 # Github Stats
 
