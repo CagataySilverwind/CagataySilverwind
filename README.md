@@ -96,7 +96,7 @@
   <a>
     <img height="180" width="210" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Middle%20Left2.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CagatayAkkas&theme=material-palenight&hide_border=false" alt="CagatayAkkas" />
-    <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/right.png">
+    <img height="180" width="210" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Middle%20Right.png">
   </a>
 </p>
  
@@ -108,9 +108,9 @@
   
   <p align="center">
   <a>
-    <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/left.png">
+    <img height="180" width="210" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bottom%20Left.png">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="CagatayAkkas" />
-    <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/right.png">
+    <img height="180" width="210" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bottom%20Right.png">
   </a>
 </p>
  
