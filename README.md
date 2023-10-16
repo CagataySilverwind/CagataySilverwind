@@ -123,8 +123,7 @@
 
 <br />
 
-
-![trophy](https://github-profile-trophy.vercel.app/?username=CagatayAkkas&theme=tokyo)
+![](https://github-profile-trophy.vercel.app/?username=CagatayAkkas&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 
 <br />
