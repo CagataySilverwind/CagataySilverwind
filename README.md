@@ -54,7 +54,7 @@
  <p align="center">
   <a>
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=CagatayAkkas&theme=dark&background=ffffff&stroke=0000ee&ring=0000ee&fire=0000ee&currStreakNum=000000&sideNums=000000&currStreakLabel=dd2727&sideLabels=00e676&dates=9c36b5" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=CagatayAkkas&theme=dark&background=ffffff&stroke=0000ee&ring=0000ee&fire=0000ee&currStreakNum=000000&sideNums=000000&currStreakLabel=0000ee&sideLabels=0000ee&dates=0000ee" />
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/right.png">
   </a>
 </p>
