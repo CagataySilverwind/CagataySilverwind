@@ -41,7 +41,7 @@
   <p align="center">
   <a>
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/left.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=CagatayAkkas&show_icons=true&title_color=ff0000&icon_color=ffb300&text_color=2e3440&bg_color=ffffff&icon=5C4F31&ring=292E36&count_private=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=CagatayAkkas&show_icons=true&title_color=0000ee&icon_color=0000ee&text_color=2e3440&bg_color=ffffff&icon=5C4F31&ring=292E36&count_private=true" />
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/right.png">
   </a>
 </p>
@@ -54,7 +54,7 @@
  <p align="center">
   <a>
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=CagatayAkkas&theme=dark&background=ffffff&stroke=ffb300&ring=ff0000&fire=ff0000&currStreakNum=000000&sideNums=000000&currStreakLabel=dd2727&sideLabels=00e676&dates=9c36b5" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=CagatayAkkas&theme=dark&background=ffffff&stroke=0000ee&ring=0000ee&fire=0000ee&currStreakNum=000000&sideNums=000000&currStreakLabel=dd2727&sideLabels=00e676&dates=9c36b5" />
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/right.png">
   </a>
 </p>
@@ -68,7 +68,7 @@
   <p align="center">
   <a>
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/left.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=26&title_color=ff0000&text_color=8c001a&bg_color=ffffff" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=26&title_color=0000ee&text_color=8c001a&bg_color=ffffff" />
     <img height="120" width="140" src="https://github.com/b-tekinli/b-tekinli/blob/main/img/right.png">
   </a>
 </p>
@@ -76,7 +76,7 @@
   
   
  <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=25&title_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
 -->
 
 
