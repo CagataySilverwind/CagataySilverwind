@@ -56,7 +56,6 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<details> 
   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -67,7 +66,7 @@
 [![LeetCode Görevleri 1046 - Last Stone Weight](https://ytcards.demolab.com/?id=iRvguQZMess&title=LeetCode+G%C3%B6revleri+1046+-+Last+Stone+Weight&lang=en&timestamp=1688815813&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "LeetCode Görevleri 1046 - Last Stone Weight")](https://www.youtube.com/watch?v=iRvguQZMess)
 [![LeetCode Görevleri 21,23 - Merge Two Sorted Lists && Merge K Sorted Lists](https://ytcards.demolab.com/?id=lUfMRjTY-BQ&title=LeetCode+G%C3%B6revleri+21%2C23+-+Merge+Two+Sorted+Lists+%26%26+Merge+K+Sorted+Lists&lang=en&timestamp=1688612431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "LeetCode Görevleri 21,23 - Merge Two Sorted Lists && Merge K Sorted Lists")](https://www.youtube.com/watch?v=lUfMRjTY-BQ)
 <!-- END YOUTUBE-CARDS -->
-</details>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
