@@ -94,9 +94,9 @@
  
  <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bottom%20Left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CagatayAkkas&theme=material-palenight&hide_border=false" alt="CagatayAkkas" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bottom%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Middle%20Left2.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CagatayAkkas&theme=material-palenight&hide_border=false" alt="CagatayAkkas" width="40%" />
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Middle%20Right.png">
   </a>
 </p>
  
